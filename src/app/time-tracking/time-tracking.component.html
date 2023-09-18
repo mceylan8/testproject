@@ -1,0 +1,12 @@
+<div class="time-tracking-container">
+    <h2>Zeitaufzeichnung</h2>
+  
+    <mat-form-field class="room-selector">
+      <mat-label>Raum auswählen</mat-label>
+      <mat-select>
+        <mat-option *ngFor="let room of rooms" [value]="room.id">{{ room.description }}</mat-option>
+      </mat-select>
+    </mat-form-field>
+  
+  </div>
+  

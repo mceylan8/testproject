@@ -1,0 +1,25 @@
+mat-toolbar {
+    background-color: #1976d2;
+    color: #fff;
+}
+
+mat-button {
+    color: #fff;
+}
+
+mat-button:hover {
+    background-color: red;
+    color: #fff;
+}
+
+.spacer {
+    flex: 1;
+}
+
+mat-button[color="warn"] {
+    background-color: #d32f2f;
+}
+
+mat-button[color="warn"]:hover {
+    background-color: #ff6659;
+}

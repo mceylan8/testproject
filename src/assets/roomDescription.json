@@ -1,0 +1,178 @@
+﻿{
+  "roomDescriptions":[
+    {
+      "id": "Bro_4.18",
+      "description": "Büro",
+      "shortId": "A.4.18",
+      "building": "A"
+    },
+    {
+      "id": "Bro_A0.04",
+      "description": "Büro TLC 2",
+      "shortId": "A0.04",
+      "building": "A"
+    },
+    {
+      "id": "Bro_A0.05",
+      "description": "Büro TLC",
+      "shortId": "A0.05",
+      "building": "A"
+    },
+    {
+      "id": "DIV_Mensa",
+      "description": "Mensa",
+      "shortId": "A0.06",
+      "building": "A"
+    },
+    {
+      "id": "LAB_A0.14",
+      "description": "Robotik-Labor 1",
+      "shortId": "A0.14",
+      "building": "A"
+    },
+    {
+      "id": "Bro_A1.02A",
+      "description": "Aufenthaltsbereich",
+      "shortId": "A1.02A",
+      "building": "A"
+    },
+    {
+      "id": "HS_A1.04A",
+      "description": "Hörsaal",
+      "shortId": "A1.04A",
+      "building": "A"
+    },
+    {
+      "id": "HS_A1.04B",
+      "description": "Hörsaal",
+      "shortId": "A1.04B",
+      "building": "A"
+    },
+    {
+      "id": "HS_A1.05",
+      "description": "Hörsaal",
+      "shortId": "A1.05",
+      "building": "A"
+    },
+    {
+      "id": "UEB_A1.06",
+      "description": "Übungsraum",
+      "shortId": "A1.06",
+      "building": "A"
+    },
+    {
+      "id": "UEB_A1.07",
+      "description": "Übungsraum",
+      "shortId": "A1.07",
+      "building": "A"
+    },
+    {
+      "id": "UEB_A1.08",
+      "description": "Übungsraum",
+      "shortId": "A1.08",
+      "building": "A"
+    },
+    {
+      "id": "Bro_A1.13",
+      "description": "Erste Hilfe Raum",
+      "shortId": "A1.13",
+      "building": "A"
+    },
+    {
+      "id": "EDV_A2.06",
+      "description": "EDV-Raum",
+      "shortId": "A2.06",
+      "building": "A"
+    },
+    {
+      "id": "EDV_A2.07",
+      "description": "EDV-Raum",
+      "shortId": "A2.07",
+      "building": "A"
+    },
+    {
+      "id": "LAB_A2.12",
+      "description": "Physik-Labor",
+      "shortId": "A2.12",
+      "building": "A"
+    },
+    {
+      "id": "SEM_A3.06",
+      "description": "Seminarraum",
+      "shortId": "A3.06",
+      "building": "A"
+    },
+    {
+      "id": "SEM_A3.07",
+      "description": "Seminarraum",
+      "shortId": "A3.07",
+      "building": "A"
+    },
+    {
+      "id": "SEM_A3.10",
+      "description": "Seminarraum",
+      "shortId": "A3.10",
+      "building": "A"
+    },
+    {
+      "id": "SEM_A3.11",
+      "description": "Seminarraum",
+      "shortId": "A3.11",
+      "building": "A"
+    },
+    {
+      "id": "HS_A3.13",
+      "description": "Hörsaal",
+      "shortId": "A3.13",
+      "building": "A"
+    },
+    {
+      "id": "HS_A3.14",
+      "description": "Hörsaal",
+      "shortId": "A3.14",
+      "building": "A"
+    },
+    {
+      "id": "HS_A3.15",
+      "description": "Hörsaal",
+      "shortId": "A3.15",
+      "building": "A"
+    },
+    {
+      "id": "EDV_F1.01",
+      "description": "EDV-Raum",
+      "shortId": "F1.01",
+      "building": "F"
+    },
+    {
+      "id": "EDV_F1.02",
+      "description": "EDV-Raum",
+      "shortId": "F1.02",
+      "building": "F"
+    },
+    {
+      "id": "EDV_F1.03",
+      "description": "EDV-Raum",
+      "shortId": "F1.03",
+      "building": "F"
+    },
+    {
+      "id": "EDV_F2.02",
+      "description": "EDV-Raum",
+      "shortId": "F2.02",
+      "building": "F"
+    },
+    {
+      "id": "EDV_F7.27",
+      "description": "EDV-Raum Academy",
+      "shortId": "F7.27",
+      "building": "F"
+    },
+    {
+      "id": "HS_F0.01",
+      "description": "Festsaal",
+      "shortId": "F0.01",
+      "building": "F"
+    }
+  ]
+}
